@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About Junru Tao
 permalink: /about/
 ---
 
-Some information about you!
+Automation testing developer, software engineer, data scientist.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Located in Vancouver, working @ PNI Media.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhenyitao931@gmail.com](mailto:zhenyitao931@gmail.com)
