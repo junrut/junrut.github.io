@@ -4,7 +4,7 @@ title: About Junru Tao
 permalink: /about/
 ---
 
-Automation testing developer, software engineer, data scientist.
+Automation test developer, software engineer, data scientist.
 
 Located in Vancouver, working @ PNI Media.
 
