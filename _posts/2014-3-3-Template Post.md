@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post in tech blog
+title: Template Post
 ---
 
 Update and config
